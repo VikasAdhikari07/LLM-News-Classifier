@@ -19,7 +19,6 @@ The model is set to classify inputs into the following predefined categories:
 ## Features
 
 - **Zero-Shot Classification**: Classify text into categories without a labeled training dataset.
-- **Few-Shot Learning with Examples**: Enhance the model’s categorization by including example sentences.
 - **API Integration**: Utilize Hugging Face’s inference API for efficient text classification.
 
 ## Getting Started
