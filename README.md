@@ -55,7 +55,6 @@ The model is set to classify inputs into the following predefined categories:
 
 - **README.md**: Project documentation.
 - **main.ipynb**: Python notebook which contains the main code for setting up prompts and making API requests.
-- **requirements.txt**: List of dependencies.
 
 ## Results and Limitations
 
