@@ -53,7 +53,7 @@ The model is set to classify inputs into the following predefined categories:
 ## File Structure
 
 - **README.md**: Project documentation.
-- **main.ipynb**: Python notebook which contains the main code for setting up prompts and making API requests.
+- **LLM Classifer.ipynb**: Python notebook which contains the main code for setting up prompts and making API requests.
 
 ## Results and Limitations
 
