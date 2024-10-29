@@ -4,7 +4,7 @@ This repository contains a project for text categorization, using the `facebook/
 
 ## Project Overview
 
-The project showcases text classification capabilities without the need for a labeled dataset, using zero-shot and few-shot learning. The `facebook/bart-large-mnli` model is used for natural language inference (NLI), identifying the most probable category for each input text based on provided category labels.
+The project showcases text classification capabilities without the need for a labeled dataset, using zero-shot The `facebook/bart-large-mnli` model is used for natural language inference (NLI), identifying the most probable category for each input text based on provided category labels.
 
 ### Categories Used
 
